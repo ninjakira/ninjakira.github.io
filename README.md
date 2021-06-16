@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ninjakira.github.io)
 
 
-# Portfolio
+# Projects
 
 **Site Under Maintenance**
 
