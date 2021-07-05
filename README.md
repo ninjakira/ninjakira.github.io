@@ -8,7 +8,7 @@
 ### [Train and Deploy Phishing URL Classifier]()
 
 
-### [**Deploy HuggingFace Pre-trained NLP Models**](https://app-translate-en-de-fr.herokuapp.com/)
+### [Deploy HuggingFace Pre-trained NLP Models](https://app-translate-en-de-fr.herokuapp.com/)
 
 
 ### [EDA of Airbnb Listings in Singapore]()
