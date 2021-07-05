@@ -5,7 +5,7 @@
 
 # Projects
 
-**Site Under Maintenance**
+[**Deploy HuggingFace Pre-trained NLP Models**](https://app-translate-en-de-fr.herokuapp.com/)
 
 <!--
 ## [Project 1]()
